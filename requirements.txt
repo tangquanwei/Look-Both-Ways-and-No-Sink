@@ -1,0 +1,19 @@
+transformers >= 4.43.0, <= 4.44.2
+accelerate >= 0.20.1
+datasets
+evaluate
+scikit-learn
+sentencepiece
+
+packaging
+flash-attn
+
+seqeval
+
+tqdm
+beir
+mteb==1.0.2
+peft
+
+seaborn
+xformer

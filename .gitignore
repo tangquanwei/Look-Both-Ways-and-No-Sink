@@ -1,0 +1,7 @@
+__pycache__
+wandb
+cache_dir
+data
+outputs
+*tem*
+*error*
